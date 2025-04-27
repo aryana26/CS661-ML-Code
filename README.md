@@ -1,4 +1,4 @@
-# This repository hold our Machine Learning component's code essentially for Market Basket Analysis, Product Recommendation, Topic Minnig,a dn few oyther analysis like Cohort Anlaysis etc. Other codes are present in repsective backend reporsitory shared in project report.
+# This repository hold our Machine Learning component's code essentially for Market Basket Analysis, Product Recommendation, Topic Minnig,and few other analysis like Cohort Anlaysis etc. Other codes are present in repsective backend reporsitory shared in project report.
 
 ## All code is present in file names "ML.ipynb" please use it for reference. We have added comments in each cell for explaining the code and any instructions particular to a cell is written there. 
 
